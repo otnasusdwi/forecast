@@ -1,0 +1,8 @@
+Maven itu alat untuk mengelola proyek Java secara otomatis.
+
+Di proyek kamu, Maven dipakai untuk:
+
+download library otomatis (contoh: gson untuk baca JSON API),
+compile project (mvn compile),
+jalankan aplikasi (mvn exec:java),
+standarkan struktur folder project Java.
